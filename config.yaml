@@ -1,23 +1,22 @@
 # organization name, it's used to get github repo url, also in page title
-name: jshttp
+name: pillarjs
 
 # badge style, can be "flat", "flat-square" or ""
 # see http://shields.io/ for details
 badge_style: flat-square
 
 # meta headers in html
-title:       badgeboard
-description: project status at a glance
-keywords:    badgeboard, repo-utils
+title:       pillarjs
+description: The BYO Framework Framework
+keywords:
 
 # list of projects, this will be sorted by name;
 # every package is either string or object
 projects:
- - on-headers
- - on-finished
- - vary
- - mime-db:
-     node: 0.6   # you can override stuff from db.json here, i.e. node version
+ - path-to-regexp
+ - path-match
+ - csrf
+ - routington
 
 # list of maintainers, this won't be sorted
 maintainers:
@@ -47,6 +46,12 @@ maintainers:
    npm:     rlidwka
    twitter: rlidwka
    email:   alex@kocharin.ru
+
+ - name:    Blake Embrey
+   github:  blakeembrey
+   npm:     blakeembrey
+   twitter: blakeembrey
+   email:   hello@blakeembrey.com
 
 # this determines what info will be fetched with `make db`;
 # you can comment out stuff to reduce number of http requests

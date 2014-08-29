@@ -1,0 +1,46 @@
+{
+  "projects": {
+    "csrf": {
+      "node": "0.8",
+      "description": "primary logic behind csrf tokens",
+      "maintainer": "jongleberry"
+    },
+    "path-match": {
+      "node": "0.8",
+      "description": "wrapper around path-to-regexp for easy route parameters",
+      "maintainer": "jongleberry"
+    },
+    "path-to-regexp": {
+      "node": "0.8",
+      "description": "Express style path to RegExp utility",
+      "maintainer": "blakeembrey"
+    },
+    "routington": {
+      "node": "0.8",
+      "description": "Trie-based URL Routing",
+      "maintainer": "jongleberry"
+    }
+  },
+  "maintainers": {
+    "dougwilson": {
+      "packages": 77,
+      "avatar": "https://secure.gravatar.com/avatar/c4b64c6e47d970bb0d07a2b9d559be9b?s=50&d=retro"
+    },
+    "jongleberry": {
+      "packages": 436,
+      "avatar": "https://secure.gravatar.com/avatar/6e33cc0412b61cc01daac23c8989003c?s=50&d=retro"
+    },
+    "fishrock123": {
+      "packages": 49,
+      "avatar": "https://secure.gravatar.com/avatar/ff4b6f3d62efd0176e361e3ea918768f?s=50&d=retro"
+    },
+    "rlidwka": {
+      "packages": 13,
+      "avatar": "https://secure.gravatar.com/avatar/a5a236ba477ee98908600c40cda74f4a?s=50&d=retro"
+    },
+    "blakeembrey": {
+      "packages": 69,
+      "avatar": "https://secure.gravatar.com/avatar/a7436e2338a2ae070a61ad78d853a6be?s=50&d=retro"
+    }
+  }
+}
