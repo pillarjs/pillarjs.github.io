@@ -17,6 +17,8 @@ projects:
  - path-match
  - csrf
  - routington
+ - templation
+ - finalhandler
 
 # list of maintainers, this won't be sorted
 maintainers:

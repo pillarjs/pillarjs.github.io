@@ -5,6 +5,11 @@
       "description": "primary logic behind csrf tokens",
       "maintainer": "jongleberry"
     },
+    "finalhandler": {
+      "node": "0.8",
+      "description": "Node.js final http responder",
+      "maintainer": "dougwilson"
+    },
     "path-match": {
       "node": "0.8",
       "description": "wrapper around path-to-regexp for easy route parameters",
@@ -18,6 +23,11 @@
     "routington": {
       "node": "0.8",
       "description": "Trie-based URL Routing",
+      "maintainer": "jongleberry"
+    },
+    "templation": {
+      "node": "0.8",
+      "description": "an asynchronous, extensible view system",
       "maintainer": "jongleberry"
     }
   },
