@@ -19,6 +19,7 @@ projects:
  - routington
  - templation
  - finalhandler
+ - ssl-redirect
 
 # list of maintainers, this won't be sorted
 maintainers:
