@@ -4,19 +4,19 @@
   "//3": "but it will be overwritten on the next build.",
   "maintainers": {
     "blakeembrey": {
-      "packages": 69
+      "packages": 86
     },
     "dougwilson": {
-      "packages": 77
+      "packages": 91
     },
     "fishrock123": {
-      "packages": 49
+      "packages": 50
     },
     "jongleberry": {
-      "packages": 436
+      "packages": 489
     },
     "rlidwka": {
-      "packages": 13
+      "packages": 15
     }
   },
   "projects": {
