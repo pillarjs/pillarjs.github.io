@@ -22,7 +22,7 @@
   "projects": {
     "csrf": {
       "description": "primary logic behind csrf tokens",
-      "maintainer": "jongleberry",
+      "maintainer": "dougwilson",
       "node": "0.8"
     },
     "finalhandler": {
