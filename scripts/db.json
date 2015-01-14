@@ -30,6 +30,11 @@
       "maintainer": "dougwilson",
       "node": "0.8"
     },
+    "parseurl": {
+      "description": "parse a url with memoization",
+      "maintainer": "dougwilson",
+      "node": "0.8"
+    },
     "path-match": {
       "description": "wrapper around path-to-regexp for easy route parameters",
       "maintainer": "jongleberry",
