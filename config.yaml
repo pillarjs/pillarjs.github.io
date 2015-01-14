@@ -15,6 +15,7 @@ keywords:
 projects:
  - path-to-regexp
  - path-match
+ - cookies
  - csrf
  - parseurl
  - resolve-path

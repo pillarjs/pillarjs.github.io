@@ -20,6 +20,11 @@
     }
   },
   "projects": {
+    "cookies": {
+      "description": "Cookies, optionally signed using Keygrip.",
+      "maintainer": "dougwilson",
+      "node": "0.8"
+    },
     "csrf": {
       "description": "primary logic behind csrf tokens",
       "maintainer": "dougwilson",
