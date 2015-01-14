@@ -40,6 +40,11 @@
       "maintainer": "blakeembrey",
       "node": "0.8"
     },
+    "router": {
+      "description": "Simple middleware-style router",
+      "maintainer": "dougwilson",
+      "node": "0.8"
+    },
     "routington": {
       "description": "Trie-based URL Routing",
       "maintainer": "jongleberry",

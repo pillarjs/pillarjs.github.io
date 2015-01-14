@@ -16,6 +16,7 @@ projects:
  - path-to-regexp
  - path-match
  - csrf
+ - router
  - routington
  - templation
  - finalhandler
