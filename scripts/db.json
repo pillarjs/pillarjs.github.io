@@ -45,6 +45,11 @@
       "maintainer": "blakeembrey",
       "node": "0.8"
     },
+    "resolve-path": {
+      "description": "Resolve a relative path against a root path with validation",
+      "maintainer": "dougwilson",
+      "node": "0.8"
+    },
     "router": {
       "description": "Simple middleware-style router",
       "maintainer": "dougwilson",

@@ -17,6 +17,7 @@ projects:
  - path-match
  - csrf
  - parseurl
+ - resolve-path
  - router
  - routington
  - templation
