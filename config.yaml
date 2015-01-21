@@ -18,6 +18,7 @@ projects:
  - cookies
  - csrf
  - parseurl
+ - send
  - resolve-path
  - router
  - routington

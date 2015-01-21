@@ -13,7 +13,7 @@
       "packages": 50
     },
     "jongleberry": {
-      "packages": 489
+      "packages": 490
     },
     "rlidwka": {
       "packages": 15
@@ -63,6 +63,11 @@
     "routington": {
       "description": "Trie-based URL Routing",
       "maintainer": "jongleberry",
+      "node": "0.8"
+    },
+    "send": {
+      "description": "Better streaming static file server with Range and conditional-GET support",
+      "maintainer": "dougwilson",
       "node": "0.8"
     },
     "ssl-redirect": {
