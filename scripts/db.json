@@ -4,16 +4,16 @@
   "//3": "but it will be overwritten on the next build.",
   "maintainers": {
     "blakeembrey": {
-      "packages": 86
+      "packages": 159
     },
     "dougwilson": {
-      "packages": 91
+      "packages": 105
     },
     "fishrock123": {
-      "packages": 50
+      "packages": 44
     },
     "jongleberry": {
-      "packages": 490
+      "packages": 560
     },
     "rlidwka": {
       "packages": 15
@@ -43,12 +43,12 @@
     "path-match": {
       "description": "wrapper around path-to-regexp for easy route parameters",
       "maintainer": "jongleberry",
-      "node": "0.8"
+      "node": "0.10"
     },
     "path-to-regexp": {
       "description": "Express style path to RegExp utility",
       "maintainer": "blakeembrey",
-      "node": "0.8"
+      "node": "4.0"
     },
     "resolve-path": {
       "description": "Resolve a relative path against a root path with validation",
